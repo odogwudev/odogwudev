@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=odogwudev" alt="odogwudev" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [odogwudev.com.ng](odogwudev.com.ng)
-
 - 📫 How to reach me **enomamichael@gmail.com**
 - 🔭 I’m currently working on my personal project
 - 🌱 I’m currently learning Golang
@@ -24,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=odogwudev&show_icons=true&locale=en&layout=compact" alt="odogwudev" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=odogwudev&show_icons=true&locale=en" alt="odogwudev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=odogwudev&" alt="odogwudev" /></p>
