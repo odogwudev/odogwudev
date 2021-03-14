@@ -2,7 +2,7 @@
 <h3 align="center">An Android Developer</h3>
 
 - 🔭 I’m currently working on my personal projects
-- 🌱 I’m currently waiting for kotlin multiplatform and jetpaclcompose
+- 🌱 I’m currently waiting on kotlin multiplatform and jetpaclcompose
 - 💬 Ask me about **android, java, kotlin, php, laravel**
 
 <h3 align="left">Connect with me:</h3>
